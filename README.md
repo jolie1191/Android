@@ -8,5 +8,8 @@
 
 <img src="ImageFile/EggTimer.png" width="200">
 
+3. Weather App - using OpenWeatherApp API
+
+<img src="ImageFile/weather.png" width="200">
 
 
