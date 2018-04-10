@@ -6,6 +6,6 @@
 
 2. Egg Timer - A countdown timer on Android
 
-<img src="ImageFile/EggTimer.png width="200">
+<img src="ImageFile/EggTimer.png width="400">
 
 
