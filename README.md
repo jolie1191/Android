@@ -12,4 +12,7 @@
 
 <img src="ImageFile/weather.png" width="200">
 
+4. Notes -- A simple notes taker. Add new notes, delete notes, save notes(SharePreferences)
+
+<span><img src="ImageFile/notes.png" width="200"><img src="ImageFile/notes1.png" width="200"></span>
 
