@@ -14,5 +14,5 @@
 
 4. Notes -- A simple notes taker. Add new notes, delete notes, save notes(SharePreferences)
 
-<span><img src="ImageFile/notes.png" width="200"><img src="ImageFile/notes2.png" width="200"></span>
+<span><img src="ImageFile/notes.png" width="200"> Delete a notes <img src="ImageFile/notes2.png" width="200"></span>
 
