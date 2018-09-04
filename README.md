@@ -1,6 +1,6 @@
 # Android
 
-- Latest: Locaiton Search
+- Latest: Locaiton Search! 
 front-end: Java, Android SDK
 backend: Node.js, Express
 <img src="ImageFile/LocationSearch2.png" width="600">
