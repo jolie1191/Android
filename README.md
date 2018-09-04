@@ -1,5 +1,11 @@
 # Android
 
+Latest: Locaiton Search
+front-end: Java, Android SDK
+backend: Node.js, Express
+<img src="ImageFile/LocationSearch2.png" width="200">
+<img src="ImageFile/LocationSearch1.png" width="200">
+
 1. Connect 3 - A tic tac toe game on Android
 
 <img src="ImageFile/connect3.png" width="200">
